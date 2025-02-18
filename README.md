@@ -1,5 +1,7 @@
 # Portfolio-gen MVP
 
+![Portfolio-gen MVP Preview](https://z05ip4o91g.ufs.sh/f/somFczTyR64W4zUM7TW2Zjq3srilCSvwI7YJK1xgu8cm5OP0)
+
 ## Description
 
 **Portfolio-gen MVP** est une application web intuitive conçue pour permettre à tous, même sans compétences techniques, de créer, personnaliser et partager un portfolio professionnel. Elle offre une interface moderne et conviviale qui facilite la mise en valeur des compétences, expériences et projets des utilisateurs grâce à un lien unique généré automatiquement.
